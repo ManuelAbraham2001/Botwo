@@ -210,7 +210,7 @@ Botwo garantiza una seguridad robusta mediante múltiples capas:
 2. Escribe `"join swept-round"`  
 3. Sigue las instrucciones de autenticación  
 
-**Enlace directo**: [Unirse a Botwo](#)
+**Enlace directo**: [Unirse a Botwo](https://wa.me/+14155238886?text=join%20swept-round)
 
 ---
 
