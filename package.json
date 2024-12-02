@@ -1,0 +1,31 @@
+{
+  "name": "bot_v01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-apps/meet": "^0.3.0",
+    "@google-cloud/local-auth": "^2.1.0",
+    "@google-cloud/speech": "^6.7.0",
+    "@google-cloud/translate": "^8.5.0",
+    "@google-cloud/vertexai": "^1.9.0",
+    "@google-cloud/vision": "^4.3.2",
+    "@google/generative-ai": "^0.21.0",
+    "@googleapis/drive": "^8.14.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "googleapis": "^105.0.0",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.4",
+    "npm": "^10.9.1",
+    "string-similarity": "^4.0.4",
+    "twilio": "^5.3.5"
+  }
+}
